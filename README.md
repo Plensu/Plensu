@@ -2,7 +2,7 @@
 * 👀 I’m interested in breaking things.
 * 🌱 I’m currently learning everything all at once.
 * 💻 I mostly write in python and sometimes go.  
-* 📫 How to reach me:
+* 📫 How to reach me
       * Twitter: @plensu
       * Keybase: plensu
       * Discord: plensu#7142
